@@ -9,7 +9,6 @@
 
 ## Screenshot Of Application
 <img
-  src="./assets/images/Screenshot of site.png"
-  alt="The working website."
+  ![Horiseon Site](https://courses.bootcampspot.com/courses/3352/files/2566150/preview)
   title="Screenshot Of Application"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
