@@ -9,7 +9,7 @@
 
 ## Screenshot Of Application
 <img
-  src="C:\Users\Jena\bootcamp\challenge1\urban-octo-telegram-main\urban-octo-telegram-main\Develop\assets\images\Screenshot of site.png"
+  src="images\Screenshot of site.png"
   alt="The working website."
   title="Screenshot Of Application"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
